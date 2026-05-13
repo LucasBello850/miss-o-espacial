@@ -1,0 +1,19 @@
+{
+  "foguete": {
+    "nome": "Apollo",
+    "combustivelRestante": 0.0,
+    "cargaMaxima": 5000.0,
+    "status": "Lançado"
+  },
+  "satelite": {
+    "nome": "Hubble",
+    "tipo": "Órbita terrestre",
+    "emOperacao": true
+  },
+  "centroComunicacao": {
+    "nome": "Centro de Comunicação NASA",
+    "localizacao": "EUA",
+    "emOperacao": true
+  },
+  "emMissao": true
+}
